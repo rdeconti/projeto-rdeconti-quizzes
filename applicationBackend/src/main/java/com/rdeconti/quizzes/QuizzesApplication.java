@@ -1,4 +1,4 @@
-package com.deconti.quizzes;
+package com.rdeconti.quizzes;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

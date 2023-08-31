@@ -1,4 +1,4 @@
-package com.deconti.quizzes;
+package com.rdeconti.quizzes;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
